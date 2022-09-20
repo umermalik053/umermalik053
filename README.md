@@ -1,10 +1,7 @@
-- 👋 Hi, I’m umer malik
-- 👀 I’m interested in programming...
-- 🌱 I’m currently learning AI chatbot
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+HI, I AM UMER MALIK.
+I AM A WEBSITE DEVELOPER AND AI CHATBOT DEVELOPER. 
+BEST FRONTEND WEBSITE DESIGN FOR YOUR BUSINESS IN AFFORDABLE PRICE.
+WEBSITE IS THE MAIN PART OF BUSINESS 
+AND I AM A AI CHATBOT DEVELOPER 
+I HAVE 2 YEAR EXPERIENCE IN WEBSITE DEVELOPER ON FIVERR
 
-<!---
-umermalik053/umermalik053 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
